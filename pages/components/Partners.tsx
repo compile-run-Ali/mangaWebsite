@@ -3,12 +3,12 @@ import React from 'react'
 const Partners = () => {
   return (
     
-<div className='bg-gray-900 pb-10 '>
+<div className='bg-main-gray-light pb-10 '>
        <h1 className=' w-fit m-auto pt-10 sm:text-4xl font-bold text-xl' >
                 <span
                 className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-transparent bg-clip-text 'containor'>
                 <div className='bg-gray-800 rounded-lg sm:w-1/3 pl-5 justify-center relative z-10"
-                style={{ backgroundImage: 'linear-gradient(to right, #8B008B, #8B5CF6, #00FF00)',}}>Partners and Supporters
+                style={{ backgroundImage: 'linear-gradient(to right, #8F41B4, #7D98A6, #50C355)',}}>Partners and Supporters
                 </span>
          </h1>
 

@@ -3,7 +3,7 @@ import React from 'react'
 const StartGuide = () => {
   return (
 
-<div className='bg-purple-950 sm:p-12 sm:pb-0 p-4'>
+<div className='bg-main-purple sm:p-12 sm:pb-0 p-4'>
 
 <div className='sm:flex'>
 <div className='w-fit'>
@@ -11,7 +11,7 @@ const StartGuide = () => {
                 <span
                   className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-transparent bg-clip-text 'containor'>
                   <div className='bg-gray-800 rounded-lg sm:w-1/3  justify-center relative z-10"
-                  style={{ backgroundImage: 'linear-gradient(to right,#DA70D6, #8B5CF6, #00FF00)',}}>Quick Start Guide
+                  style={{ backgroundImage: 'linear-gradient(to right,#8F41B4, #7D98A6, #50C355)',}}>Quick Start Guide
                   </span>
             </h1>
             <div className='border-1 h-7 border-purple-500 rounded-full inline-block mb-2 mr-2 sm:ml-6  float-left'></div>

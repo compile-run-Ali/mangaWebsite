@@ -6,8 +6,8 @@ const Navbar = () => {
   return (
    
     <>
-       <div className='shadow-lg shadow-white bg-gray-950'>
-          <nav className="navbar navbar-inverse">
+       <div className=' '>
+          <nav className="navbar navbar-inverse shadow-md shadow-[#524656] bg-main-gray">
             <div className="container-fluid text-white">
 
               <div className="navbar-header flex">

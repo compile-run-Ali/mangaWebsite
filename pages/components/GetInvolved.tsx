@@ -3,12 +3,12 @@ import React from 'react'
 const GetInvolved = () => {
   return (
  
-<div className='bg-gray-950 pb-32 w-full h-full hidden sm:block'>
+<div className='bg-main-gray pb-32 w-full h-full hidden sm:block'>
             <h1 className=' w-fit m-auto pt-14 ' >
                 <span
                 className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-transparent bg-clip-text 'containor'>
                 <div className='bg-gray-800 rounded-lg sm:w-1/3 pl-5 justify-center relative z-10"
-                style={{ backgroundImage: 'linear-gradient(to right, #8B008B, #8B5CF6, #00FF00)',}}>Get Involved
+                style={{ backgroundImage: 'linear-gradient(to right, #8F41B4, #7D98A6, #50C355)',}}>Get Involved
                 </span>
             </h1>
             <img className=" absolute " src="./images/divw1.svg" alt="error" />

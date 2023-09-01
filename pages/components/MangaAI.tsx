@@ -7,18 +7,18 @@ import {FiGithub} from 'react-icons/fi'
 const MangaAI = () => {
   return (
 
-<div className='bg-purple-950 w-full pb-3'>
+<div className='bg-main-purple w-full pb-3'>
       <h1 className='text-purple-400 text-3xl sm:text-4xl m-auto w-fit pt-14'>MANGA AI</h1>
 
       <div className='flex sm:space-x-20 m-auto pt-14 w-fit sm:text-base text-xs space-x-4'>
             <div className='text-white leading-3 flex'>
-              <div><p className=' rounded-full bg-purple-900 w-fit p-2 text-3xl mr-2'><AiOutlineMail/></p></div>
+              <div><p className=' rounded-full bg-[#573F6A] w-fit p-2 text-3xl mr-2'><AiOutlineMail/></p></div>
                <div> <p>Contact us at</p>
                 <p>Info@Mangaai.com</p></div>
             </div>
 
             <div className='text-white leading-3 flex'>
-              <div><p className=' rounded-full bg-purple-900 w-fit p-2 text-3xl mr-2'><AiOutlineTwitter/></p></div>
+              <div><p className=' rounded-full bg-[#573F6A] w-fit p-2 text-3xl mr-2'><AiOutlineTwitter/></p></div>
                 <div><p>Follow us on Twitter</p>
                 <p>@mangaaiofficial</p></div>
             </div>
@@ -43,7 +43,7 @@ const MangaAI = () => {
              <div className='border-1 sm:w-[40%] w-52 border-white rounded-full inline-block mb-10 mr-2 mt-3 sm:ml-[28%] m-20'></div>
         </div>
 
-        <div className=' sm:p-10 bg-purple-900 w-fit rounded-2xl m-auto sm:text-base text-sm p-3'>
+        <div className=' sm:p-10 bg-main-purple-dark w-fit rounded-2xl m-auto sm:text-base text-sm p-3'>
         <h1 className='text-purple-400 text-3xl sm:text-4xl m-auto w-fit'>Newsletter</h1>
         <p className='text-white w-fit m-auto pt-3 pb-2'>Sign up for newsletter and join our tribe</p>
         <div className="input-group mb-3  border-white pb-3">
@@ -53,11 +53,11 @@ const MangaAI = () => {
 
         </div>
         <div className='p-3 pt-5 w-fit space-x-2 sm:space-x-5 m-auto'>
-            <a className='text-white rounded-full bg-purple-700 text-2xl p-3 w-fit inline-block' href="/"><AiOutlineMail/></a>
-            <a className='text-white rounded-full bg-purple-700 text-2xl p-3 w-fit inline-block' href="/"><AiOutlineTwitter/></a>
-            <a className='text-white rounded-full bg-purple-700 text-2xl p-3 w-fit inline-block' href="/"><FaLinkedinIn/></a>
-            <a className='text-white rounded-full bg-purple-700 text-2xl p-3 w-fit inline-block' href="/"><FiGithub/></a>
-            <a className='text-white rounded-full bg-purple-700 text-2xl p-3 w-fit inline-block' href="/"><AiOutlineInstagram/></a>
+            <a className='text-white rounded-full bg-[#573F6A] text-2xl p-3 w-fit inline-block' href="/"><AiOutlineMail/></a>
+            <a className='text-white rounded-full bg-[#573F6A] text-2xl p-3 w-fit inline-block' href="/"><AiOutlineTwitter/></a>
+            <a className='text-white rounded-full bg-[#573F6A] text-2xl p-3 w-fit inline-block' href="/"><FaLinkedinIn/></a>
+            <a className='text-white rounded-full bg-[#573F6A] text-2xl p-3 w-fit inline-block' href="/"><FiGithub/></a>
+            <a className='text-white rounded-full bg-[#573F6A] text-2xl p-3 w-fit inline-block' href="/"><AiOutlineInstagram/></a>
         </div>
 
         <div className='w-full m-auto '>

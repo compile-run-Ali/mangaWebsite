@@ -3,12 +3,12 @@ import React from 'react'
 const MangaTokenomics = () => {
   return (
     
-<div className='bg-gray-950 pb-16 '>
+<div className='bg-main-gray pb-16 '>
     <h1 className=' w-fit ml-[8%] pt-11' >
                 <span
                 className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-transparent bg-clip-text 'containor'>
                 <div className='bg-gray-800 rounded-lg sm:w-1/3 pl-5 justify-center relative z-10"
-                style={{ backgroundImage: 'linear-gradient(to right, #8B008B, #8B5CF6, #00FF00)',}}>$MANGA Tokenomics
+                style={{ backgroundImage: 'linear-gradient(to right, #8F41B4, #7D98A6, #50C355)',}}>$MANGA Tokenomics
                 </span>
                 </h1>
 
